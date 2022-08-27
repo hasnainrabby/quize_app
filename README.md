@@ -3,8 +3,8 @@
 A new Flutter project. Simple General Knowledge Question App.
 
 ## Getting Started
-Adding image in project.UI design.Create model class Question.Create Question Bank inside List. 
-This project is a starting point for a Flutter application.
+Adding image in project.UI design.Create model class Question.Create Question Bank inside List.Elevated Button(True,False,Forward,Backword),SnackBar 
+
 
 A few resources to get you started if this is your first Flutter project:
 
