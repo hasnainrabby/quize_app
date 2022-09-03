@@ -36,9 +36,9 @@ class _QuizAppState extends State<QuizApp> {
       appBar: AppBar(
         title: Text("BD GK Test"),
         centerTitle: true,
-        backgroundColor: Colors.blueGrey,
+      //  backgroundColor: Colors.blueGrey,
       ),
-      backgroundColor: Colors.blueGrey,
+     // backgroundColor: Colors.blueGrey,
       body: Container(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
