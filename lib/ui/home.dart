@@ -55,9 +55,7 @@ class _QuizAppState extends State<QuizApp> {
                 height: 120.0,
                 child: Center(child: Padding(
                   padding: const EdgeInsets.all(8.0),
-                  child: Text(questionBank[_currentQuestionIndex].questionText,style: TextStyle(fontSize: 15.0,
-                      color: Colors.white,
-                      fontWeight: FontWeight.bold),),
+                  child: Text(questionBank[_currentQuestionIndex].questionText),
                 )),
               ),
             ),
